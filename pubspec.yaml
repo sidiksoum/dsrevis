@@ -1,0 +1,33 @@
+name: dsrevis
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  cloud_firestore: ^6.6.0
+  firebase_auth: ^6.5.4
+  firebase_core: ^4.11.0
+  flutter:
+    sdk: flutter
+  lottie: ^3.1.2
+  path: ^1.9.1
+  sqflite: ^2.4.2
+  sqflite_common_ffi_web: ^1.1.2
+  url_launcher: ^6.3.2
+  flutter_markdown: ^0.6.17+1
+  flutter_tex: ^4.0.3+7
+  country_picker: ^2.0.28
+  share_plus: ^13.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logods.png

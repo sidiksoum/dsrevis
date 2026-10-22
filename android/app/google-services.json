@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48519867441",
+    "project_id": "ds-revis-admin",
+    "storage_bucket": "ds-revis-admin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48519867441:android:7ca0df02d501b64414b910",
+        "android_client_info": {
+          "package_name": "ci.sante.dsrevis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvI7yB6AmJ7XSSugCahgn5jP7JzlQ8VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
